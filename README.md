@@ -1,4 +1,4 @@
-# Você ja coordenou algum projeto? Seja uma reforma em casa, um orçamento para custos em uma viagem, abertura de um negócio pessoal ou algo similar? Se sim, agora você tem uma ferramenta simples e objetiva para continuar esses projetos, se não, seja bem-vindo ao COSTS!
+## Você ja coordenou algum projeto? Seja uma reforma em casa, um orçamento para custos em uma viagem, abertura de um negócio pessoal ou algo similar? Se sim, agora você tem uma ferramenta simples e objetiva para continuar esses projetos, se não, seja bem-vindo ao COSTS!
 
 Neste projeto temos uma interface para criação de projetos, controlando orçamento total e inserindo custos
 para cada etapa do projeto. Ele pode atender tanto projetos empresariais, como ser modificado para atender projetos
