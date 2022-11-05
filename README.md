@@ -28,13 +28,13 @@ JavaScript, React, CSS, HTML
 Para baixar o código:
 
 ```bash
-git clone git@github.com:Nikolas-Firmo-Cardoso/Trivia-Game.git
+git clone git@github.com:Nikolas-Firmo-Cardoso/Gestor-de-custos-para-projetos.git
 ```
 
 Entre na raiz do projeto:
 
 ```bash
-cd sd-019-a-project-trivia-react-redux
+cd costs
 ```
 
 Instale as dependências:
