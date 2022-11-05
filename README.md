@@ -7,7 +7,7 @@ Neste projeto temos uma interface para criação de projetos, controlando orçam
 para cada etapa do projeto. Ele pode atender tanto projetos empresariais, como ser modificado para atender projetos
 pessoais.
 
-ocê pode conferir o resultado através deste link: https://www.linkedin.com/feed/update/urn:li:activity:6986695398111232001/
+Você pode conferir o resultado através deste link: https://www.linkedin.com/feed/update/urn:li:activity:6986695398111232001/
 
 ## Tecnologias utilizadas
 
