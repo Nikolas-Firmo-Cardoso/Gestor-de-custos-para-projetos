@@ -1,4 +1,7 @@
-## Você ja coordenou algum projeto? Seja uma reforma em casa, um orçamento para custos em uma viagem, abertura de um negócio pessoal ou algo similar? Se sim, agora você tem uma ferramenta simples e objetiva para continuar esses projetos, se não, seja bem-vindo ao COSTS!
+## Projeto Costs:
+
+
+Você ja coordenou algum projeto? Seja uma reforma em casa, um orçamento para custos em uma viagem, abertura de um negócio pessoal ou algo similar? Se sim, agora você tem uma ferramenta simples e objetiva para continuar esses projetos, se não, seja bem-vindo ao COSTS!
 
 Neste projeto temos uma interface para criação de projetos, controlando orçamento total e inserindo custos
 para cada etapa do projeto. Ele pode atender tanto projetos empresariais, como ser modificado para atender projetos
@@ -17,3 +20,31 @@ JavaScript, React, CSS, HTML
   <img align="center" alt="Niko-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+##
+
+## Rodando a aplicação:
+
+
+Para baixar o código:
+
+```bash
+git clone git@github.com:Nikolas-Firmo-Cardoso/Trivia-Game.git
+```
+
+Entre na raiz do projeto:
+
+```bash
+cd sd-019-a-project-trivia-react-redux
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Inicie a aplicação em seu navegador:
+
+```bash
+npm start
+```
