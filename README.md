@@ -34,7 +34,7 @@ git clone git@github.com:Nikolas-Firmo-Cardoso/Gestor-de-custos-para-projetos.gi
 Entre na raiz do projeto:
 
 ```bash
-cd costs
+cd Gestor-de-custos-para-projetos
 ```
 
 Instale as dependências:
